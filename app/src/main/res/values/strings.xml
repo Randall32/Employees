@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Employees</string>
+    <string name="specialty_title">Специальности</string>
+    <string name="employee_title">Сотрудники</string>
+    <string name="date_template" formatted="false" >%s г. %s</string>
+</resources>
